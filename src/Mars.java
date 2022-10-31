@@ -23,6 +23,7 @@ public class Mars {
 
         Landing = LandingCheck(100);
         new GuessingGame();
+        new MarsExpedition();
     }
     public static boolean LandingCheck(int Loops) throws InterruptedException {
         for (int i = 0; i <= Loops; i++) {
