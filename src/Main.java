@@ -1,4 +1,4 @@
-public class Mars {
+public class Main {
     public static void main(String[] args) throws InterruptedException {
         String ColonyName = "Sk47";
         int ShipPopulation = 300;
